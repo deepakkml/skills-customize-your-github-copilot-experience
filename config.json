@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-io",
+      "title": "Python File I/O & Data Persistence",
+      "description": "Read, write, and persist data using text, CSV, and JSON files in Python.",
+      "path": "assignments/python-file-io",
+      "dueDate": "2026-07-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
